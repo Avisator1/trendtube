@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 
-const FAQPage = () => {
+const Faq = () => {
   const [activeIndices, setActiveIndices] = useState([]);
   const [heights, setHeights] = useState({});
 
@@ -90,4 +90,4 @@ const FAQPage = () => {
   );
 };
 
-export default FAQPage;
+export default Faq;

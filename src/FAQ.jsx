@@ -1,14 +1,14 @@
 import React from 'react'
-import FAQPage from './components/pagefq'
 import Navbar from './components/Navbar'
 import Get from './components/Get'
 import Footer from './components/Footer'
+import Faq from './components/Faq'
 
 const FAQ = () => {
   return (
     <div>
       <Navbar />
-      <FAQPage />
+      <Faq />
       <Get />
       <Footer />
     </div>
