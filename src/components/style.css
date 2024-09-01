@@ -1,0 +1,3 @@
+.bg-primary-content {
+    background-color: var(--fallback-pc, oklch(var(--pc) / var(--tw-bg-opacity)));
+}
