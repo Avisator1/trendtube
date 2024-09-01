@@ -1,5 +1,5 @@
 import React from 'react'
-import FAQPage from './components/FaqPage'
+import FAQPage from './components/pagefq'
 import Navbar from './components/Navbar'
 import Get from './components/Get'
 import Footer from './components/Footer'
