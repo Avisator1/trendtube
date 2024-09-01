@@ -79,9 +79,9 @@ function Navbar() {
               </Link>
             </li>
             <li>
-              <a href="/#features" onClick={() => setMenuOpen(false)} className="text-black hover:underline text-lg">
+              <Link to="/features" onClick={() => setMenuOpen(false)} className="text-black hover:underline text-lg">
                 Features
-              </a>
+              </Link>
             </li>
             <li>
               <Link to="/faq" onClick={() => setMenuOpen(false)} className="text-black hover:underline text-lg">
