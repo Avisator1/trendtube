@@ -4,7 +4,7 @@ import Get from './components/Get'
 import './components/Animation.css'
 import Footer from './components/Footer'
 import TestimonialPage from './components/TestimonialPage'
-import FAQ from './components/Faq'
+import FAQ from './components/anotherfq'
 
 function PricingPage() {
   return (
