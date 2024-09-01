@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 
-const FAQ = () => {
+const Faqcomponent = () => {
   const [activeIndices, setActiveIndices] = useState([]);
   const [heights, setHeights] = useState({});
 
@@ -78,4 +78,4 @@ const FAQ = () => {
   );
 };
 
-export default FAQ;
+export default Faqcomponent;

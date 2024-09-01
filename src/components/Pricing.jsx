@@ -1,5 +1,5 @@
 import React from 'react';
-import FAQ from './anotherfq';
+import FAQ from './Faqcomponent';
 
 function Pricing() {
   return (

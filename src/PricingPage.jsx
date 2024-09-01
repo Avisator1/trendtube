@@ -4,7 +4,7 @@ import Get from './components/Get'
 import './components/Animation.css'
 import Footer from './components/Footer'
 import TestimonialPage from './components/TestimonialPage'
-import FAQ from './components/anotherfq'
+import Faqcomponent from './components/Faqcomponent'
 
 function PricingPage() {
   return (
@@ -55,8 +55,7 @@ function PricingPage() {
       </div>
 
       {/* Add the FAQ component here */}
-      <FAQ />
-
+      <Faqcomponent />
     </div>
       <TestimonialPage />
       <Get />
