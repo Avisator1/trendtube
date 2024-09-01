@@ -3,8 +3,8 @@ import Navbar from './components/Navbar'
 import Get from './components/Get'
 import './components/Animation.css'
 import Footer from './components/Footer'
-import FAQ from './components/Faq'
 import TestimonialPage from './components/TestimonialPage'
+import FAQ from './components/Faq'
 
 function PricingPage() {
   return (
