@@ -14,7 +14,6 @@ function Navbar() {
           <img src={logo} className="h-8" alt="TrendTube Logo" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap">TrendTube</span>
         </Link>
-
         {/* Centered Links for PC */}
         <div className="hidden md:flex md:justify-center flex-grow">
           <ul className="font-medium flex space-x-8">
