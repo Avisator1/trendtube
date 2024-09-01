@@ -1,5 +1,5 @@
 import React from 'react';
-import FAQ from './Faqcomponent';
+import Faqcomponent from './Faqcomponent';
 
 function Pricing() {
   return (
@@ -48,7 +48,7 @@ function Pricing() {
       </div>
 
       {/* Add the FAQ component here */}
-      <FAQ />
+      <Faqcomponent />
 
     </div>
   )
