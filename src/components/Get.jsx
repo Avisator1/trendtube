@@ -12,7 +12,7 @@ function Get() {
         <br className="hidden lg:block" /> With TrendTube you will be one step
         closer to achieving your goals.
       </p>
-      <div className="flex space-x-4">
+      <div className="flex flex-col space-y-4 items-center">
         <button className="bg-blue-300 text-gray-950 px-6 py-3 rounded-full text-lg md:text-xl">
           Start Growing Today
         </button>
